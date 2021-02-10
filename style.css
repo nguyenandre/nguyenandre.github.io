@@ -1,5 +1,11 @@
-.brand a {
+body {
     font-family: 'Noto Serif JP', serif;
-    font-size: xx-large;
+}
+
+.brand a {
     color: #F44336 !important;
+}
+
+.card {
+    border: none;
 }
